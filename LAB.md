@@ -31,4 +31,3 @@
 If you are going to make an Express API for this lab for the bonus, follow the standard guideline of previous Labs 11-14 for proper API documentation. Please include Big Oh time complexity for traversal of your binary tree. 
 
 Otherwise, please explain how a user should execute your code and run your tests if someone else were to clone down this repo. Please include Big Oh time complexity for traversal of your binary tree. 
-

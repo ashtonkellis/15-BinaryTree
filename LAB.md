@@ -1,10 +1,10 @@
 ## To Submit this Assignment
 * Create a pull request from your `lab-15` branch to your master branch
 * Submit on canvas 
-a question:  
-and observation: 
+a question: is it customary for something like this to declare a separate Node class? or shoudl i build this functionality inside of my BinaryTree class?
+and observation: recursion is much less intimidating that i originally thought
 your original estimate: 2 hours
-how long you spent: 
+how long you spent: ~1 hour
 a link to your pull request: 
 
 #### Feature Tasks  

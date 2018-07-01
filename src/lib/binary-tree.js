@@ -1,34 +1,3 @@
-# Binary Tree Traversal
-## Travis Badge
-[![Build Status](https://travis-ci.org/ashtonkellis/15-BinaryTree.svg?branch=master)](https://travis-ci.org/ashtonkellis/15-BinaryTree)
-
-## Challenge
-* Implement an **in-order** traversal function that returns a string of the visited node's values.
-      * For example : `6,8,7,9,2,1,4,3,5`
-
-## to use this code
-```
-import 'BinaryTree';
-
-const myBT = new BinaryTree();
-
- // to append a value to the binary tree
- // Big O Time: O(h), where h is the height of the tree
- // Big O Space: O(h)
-myBT.append(value);
-
-// to in-order traverse the tree and apply a callback function
- // Big O Time: O(n)
- // Big O Space: O(h)
-myBT.inOrder(callback);
-
-// to return a string of the values of the nodes, traversed in-order
- // Big O Time: O(n)
- // Big O Space: O(n)
-myBT.inOrderString();
-```
-
-## Code Solution
 'use strict';
 
 class Node {

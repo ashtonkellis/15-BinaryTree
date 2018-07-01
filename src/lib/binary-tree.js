@@ -1,12 +1,3 @@
-# Binary Tree Traversal
-## Travis Badge
-[![Build Status](https://travis-ci.org/ashtonkellis/15-BinaryTree.svg?branch=master)](https://travis-ci.org/ashtonkellis/15-BinaryTree)
-
-## Challenge
-* Implement an **in-order** traversal function that returns a string of the visited node's values.
-      * For example : `6,8,7,9,2,1,4,3,5`
-
-## Code Solution
 'use strict';
 
 class Node {
